@@ -1,0 +1,6 @@
+[
+  {
+    "action": "remove",
+    "files": [".github", "LICENSE", "package-lock.json", "README.md"]
+  }
+]
